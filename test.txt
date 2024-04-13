@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 testttttttttt
 hihiiii
+=======
+>>>>>>> parent of 6b5ad50 (Update test.txt)
